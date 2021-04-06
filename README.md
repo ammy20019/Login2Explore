@@ -18,7 +18,7 @@ In this project we are integrating an html/JS form with JsonPower and collecting
 •	Nimble, Simple to use, In Memory, Real-time DBMS.<br>
 
 ## Release History 
-Released on 06-04-2021. For detailed code and connection : index.html
+Released on 06-04-2021. For detailed code and connection : WebForm -> public_files -> index.html
 
 ## Table of contents
 •	Creating a Developer Account and Generating Connection<br>
