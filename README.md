@@ -41,7 +41,10 @@ _ JsonPowerDb<br>
 _ Netbeans Connector (Extension in chrome)<br>
 
 ## Illustrations
-![stack Overflow](http://lmsotfy.com/so.png)
+![d1](https://github.com/ammy20019/Login2Explore/blob/main/demo/d1.png)
+![d2](https://github.com/ammy20019/Login2Explore/blob/main/demo/d2.png)
+![d3](https://github.com/ammy20019/Login2Explore/blob/main/demo/d3.png)
+![d4](https://github.com/ammy20019/Login2Explore/blob/main/demo/d4.png)
 
 ## Scope of functionalities 
 •	All Mobile applications that require backend database.<br>
