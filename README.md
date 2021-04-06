@@ -45,20 +45,22 @@ _ Netbeans Connector (Extension in chrome)<br>
 
 ## Scope of functionalities 
 •	All Mobile applications that require backend database.<br>
-•	Session Caching.
-•	Page Caching.
-•	Existing Database applications to improve their reporting / analytics performance.
-•	Best suited as backend Database for IoT.
-•	Live HTML templates / themes.
-•	Any software application that needs backend database.
-Examples of use
-•	Shared JPDB - free / low cost DBSaaS
-•	Downloadable and freemium JPDB instance
-•	Dedicated JPDB instances 
-•	Customized JPDB as per requirement 
+•	Session Caching.<br>
+•	Page Caching.<br>
+•	Existing Database applications to improve their reporting / analytics performance.<br>
+•	Best suited as backend Database for IoT.<br>
+•	Live HTML templates / themes.<br>
+•	Any software application that needs backend database.<br>
+
+## Examples of use
+•	Shared JPDB - free / low cost DBSaaS<br>
+•	Downloadable and freemium JPDB instance<br>
+•	Dedicated JPDB instances <br>
+•	Customized JPDB as per requirement <br>
 
 ## Project status 
 Completed
+
 ## Sources
 https://login2explore.com/jpdb/
 
