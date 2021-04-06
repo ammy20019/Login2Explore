@@ -35,10 +35,10 @@ Released on 06-04-2021. For detailed code and connection : index.html
 •	PageSaving data in JPDB from HTML form
 
 ## Requirements
-> NetBeans IDE
-> Talend API tester (Extension in chrome)
-> JsonPowerDb
-> Netbeans Connector (Extension in chrome)
+_ NetBeans IDE
+_ Talend API tester (Extension in chrome)
+_ JsonPowerDb
+_ Netbeans Connector (Extension in chrome)
 
 ## Illustrations
 
