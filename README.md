@@ -4,47 +4,47 @@
 In this project we are integrating an html/JS form with JsonPower and collecting data from the form and entering into the database with the help of APIs.
 
 ## Benefits of using JsonPowerDB 
-•	Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
-•	Serverless support for faster development - A UI developer can develop complete dynamic application.
-•	DBMS with built in web / application server and embedded caching makes the performance lightning fast.
-•	Server side Native NoSQL - best query performance.
-•	In-built support to query on multiple JPDB databases.
-•	Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
-•	Schema free - easy to develop and maintain.
-•	Web-services API - Can be used with any programming language that has support for HTTP.
-•	Enriched by a pluggable API Framework - A developer can develop a pluggable API and plugin into any of our cloud JPDB instance.
-•	Standardisation of API development framework makes the development process easy, more readable, and less error prone.
-•	Multiple security layers.
-•	Nimble, Simple to use, In Memory, Real-time DBMS.
+•	Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.<br>
+•	Serverless support for faster development - A UI developer can develop complete dynamic application.<br>
+•	DBMS with built in web / application server and embedded caching makes the performance lightning fast.<br>
+•	Server side Native NoSQL - best query performance.<br>
+•	In-built support to query on multiple JPDB databases.<br>
+•	Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.<br>
+•	Schema free - easy to develop and maintain.<br>
+•	Web-services API - Can be used with any programming language that has support for HTTP.<br>
+•	Enriched by a pluggable API Framework - A developer can develop a pluggable API and plugin into any of our cloud JPDB instance.<br>
+•	Standardisation of API development framework makes the development process easy, more readable, and less error prone.<br>
+•	Multiple security layers.<br>
+•	Nimble, Simple to use, In Memory, Real-time DBMS.<br>
 
 ## Release History 
 Released on 06-04-2021. For detailed code and connection : index.html
 
 ## Table of contents
-•	Creating a Developer Account and Generating Connection
-•	PageInstalling Talend API Tester
-•	PageUnderstanding JsonPowerDB and its Features
-•	PageJsonPowerDB Use case and Benefits
-•	PagePUT Command - Creating (Inserting) Record
-•	PageGET Command - Retrieving Record
-•	PageUPDATE Command - Update a record
-•	PageREMOVE Command - Remove a record
-•	PageAjax Concepts - A Desktop application feel on web-...
-•	FileHow to use JsonPowerDB in Web Pages
-•	PageCreating a Web Project in NetBeans
-•	PageSaving data in JPDB from HTML form
+•	Creating a Developer Account and Generating Connection<br>
+•	PageInstalling Talend API Tester<br>
+•	PageUnderstanding JsonPowerDB and its Features<br>
+•	PageJsonPowerDB Use case and Benefits<br>
+•	PagePUT Command - Creating (Inserting) Record<br>
+•	PageGET Command - Retrieving Record<br>
+•	PageUPDATE Command - Update a record<br>
+•	PageREMOVE Command - Remove a record<br>
+•	PageAjax Concepts - A Desktop application feel on web-...<br>
+•	FileHow to use JsonPowerDB in Web Pages<br>
+•	PageCreating a Web Project in NetBeans<br>
+•	PageSaving data in JPDB from HTML form<br>
 
 ## Requirements
-_ NetBeans IDE
-_ Talend API tester (Extension in chrome)
-_ JsonPowerDb
-_ Netbeans Connector (Extension in chrome)
+_ NetBeans IDE<br>
+_ Talend API tester (Extension in chrome)<br>
+_ JsonPowerDb<br>
+_ Netbeans Connector (Extension in chrome)<br>
 
 ## Illustrations
 
 
 ## Scope of functionalities 
-•	All Mobile applications that require backend database.
+•	All Mobile applications that require backend database.<br>
 •	Session Caching.
 •	Page Caching.
 •	Existing Database applications to improve their reporting / analytics performance.
